@@ -50,6 +50,14 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.box {
+    border: 3px solid #FB9062; 
+    border-radius: 5px; 
+    padding: 5px; 
+    margin-bottom: 20px; 
+    width: 900px;
+}
 .container2 a {
     color: #FB9062;
 }
